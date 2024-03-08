@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  color: white;
+  background-color: black;
+  overflow: hidden;
+}
+  
+#main {
+  position: relative;
+  width: 100%;
+  font: 32pt Helvetica; 
+  color: white;
+  text-align: center;
+}
+
+#pdf {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
